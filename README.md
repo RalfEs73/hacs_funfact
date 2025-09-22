@@ -1,6 +1,6 @@
 # 🧠 Funfacts – Home Assistant Integration
 
-This custom Home Assistant integration displays random fun facts right in your dashboard—in German or English!  
+This custom Home Assistant integration displays random fun facts right in your dashboard - in English or German!  
 Facts are fetched from the public API: https://uselessfacts.jsph.pl.
 
 ---
