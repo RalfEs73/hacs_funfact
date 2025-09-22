@@ -16,9 +16,10 @@ Facts are fetched from the public API: https://uselessfacts.jsph.pl.
 
 ## 📦 Installation
 
-1. Copy the `funfacts` folder into your Home Assistant directory:  
-   `custom_components/funfacts/`
-2. Add the following to your `configuration.yaml`:
+The recommended way is to install via HACS
+[![Open your Home Assistant instance and open the Funfacts custom component repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=ralfes73&repository=hacs_funfacts)
+
+Then restart HA and add the the following to your `configuration.yaml`:
 ```yaml
 sensor:
   - platform: funfacts
