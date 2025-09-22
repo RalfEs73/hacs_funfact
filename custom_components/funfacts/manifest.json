@@ -1,0 +1,9 @@
+{
+  "domain": "funfacts",
+  "name": Funfacts",
+  "documentation": "https://github.com/RalfEs73/hacs_funfact",
+  "dependencies": [],
+  "codeowners": ["@RalfEs73"],
+  "requirements": [],
+  "version": "0.0.1"
+}
