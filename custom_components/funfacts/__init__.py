@@ -1,3 +1,6 @@
-from homeassistant.core import HomeAssistant
+"""Funfacts Integration."""
 
-async def async_setup(hass: HomeAssistant, config: dict):
+
+async def async_setup(hass, config):
+    """Set up the Funfacts component."""
+    return True

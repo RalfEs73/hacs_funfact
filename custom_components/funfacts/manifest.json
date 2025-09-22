@@ -1,9 +1,9 @@
 {
   "domain": "funfacts",
   "name": "Funfacts",
+  "version": "0.0.3",
   "documentation": "https://github.com/RalfEs73/hacs_funfact",
-  "dependencies": [],
-  "codeowners": ["@RalfEs73"],
   "requirements": [],
-  "version": "0.0.2"
+  "dependencies": [],
+  "codeowners": ["@RalfEs73"]
 }
