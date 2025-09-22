@@ -19,8 +19,8 @@ Facts are fetched from the public API: https://uselessfacts.jsph.pl.
 1. Copy the `funfacts` folder into your Home Assistant directory:  
    `custom_components/funfacts/`
 2. Add the following to your `configuration.yaml`:
-
-
+```yaml
 sensor:
   - platform: funfacts
     language: en  # or "de"
+```
