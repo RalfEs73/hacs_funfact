@@ -1,7 +1,7 @@
 {
   "domain": "funfacts",
   "name": "Funfacts",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "documentation": "https://github.com/RalfEs73/hacs_funfact",
   "requirements": [],
   "dependencies": [],
