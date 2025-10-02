@@ -26,3 +26,7 @@ sensor:
   - platform: funfacts
     language: en  # or "de"
 ```
+
+## ⌛ Generate a new fun fact
+
+To generate a new fun fact, use the action `funfacts.funfact_refresh`. The fun fact is stored in the sensor `sensor.funfact` and can be further processed.
